@@ -44,6 +44,8 @@
   - [Domain Registrar](#domain-registrar)
   - [Android Dialer](#android-dialer)
   - [Browser Leaks Test](#browser-leaks-test)
+  - [Network](#network)
+  - [Others](#others)
   - [Mass Surveillance Projects](#mass-surveillance-projects)
       - [NSA](#nsa)
   - [Platforms Users Reviews](#platforms-users-reviews)
@@ -92,6 +94,7 @@
 ### Messaging
 + [Signal](https://signal.org/) - End-to-end encryption keeps your conversations secure.
 + [Keybase](https://keybase.io/) - End-to-end encryption for messaging and file-sharing.
++ [Dust](https://usedust.com/) - Blockchain based messaging app.
 + [Jami](https://jami.net/) - An peer to peer and end to end encrypted messager that utlizes a distributed hash table for sending messages.
 + [Element](https://element.io/) - Secure and independent communication, connected via Matrix.
 + [Wickr](https://wickr.com/) - A anonymous, end-to-end encrypted & ephemeral messaging app(Owned by Amazon).
@@ -127,6 +130,7 @@
 + [Brave](https://brave.com/) - Is fast, secure, and privacy-focused by default with a built-in ad blocker.
 + [Librewolf](https://librewolf-community.gitlab.io/) - A fork of firefox, focused on privacy, security, and freedom. 
 + [Tor](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
++ [Speek](https://speek.network/) - An open source chat app that uses TOR.
 + [Epic](https://www.epicbrowser.com/) - Privacy focused web browser.
 + [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser.
 + [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Privacy-first web browser with lots of addons to further increase privacy.
@@ -473,6 +477,16 @@ Windscribe sets you free.
 + [DNSLeakTest](http://www.dnsleaktest.com/)
 + [GRC](https://www.grc.com/dns/dns.htm)
 
+### Network
++ [paping](https://github.com/koolhazz/paping) - Cross-platform TCP port testing, emulating the functionality of ping (port ping).
++ [chping](https://github.com/OTAKKATO/chping) - A powerful Paping alternative made using NodeJS.
+
+### Others
++ https://github.com/
++ https://gitlab.com/
++ https://gitee.com/
++ https://bitbucket.org/
+
 ### Mass Surveillance Projects
 They are summarized here because the information of these projects are big, for more information please click their name.
 
@@ -783,12 +797,15 @@ All of these are optional but some of them should be used in daily basis or admi
 + Use privacy enhancing applications.
 
 ### Addition
++ Always use your "Be careful" instinct.
++ Do not trust anything in the internet.
 + Can't find something that you needed to protect your privacy? Why not make it, find a developer to make it for you or let us know by making an Issue in this repository.
 + Some of these mass surveillance projects are used to catch terrorist and bad guys. What is wrong with that? Yes but the thing is innocent people are getting Included as well, lying, being dishonest & secretly gathers peoples data without their concern or at least informing them might be more than just targetting bad guys.
 + So companies should not gather data? No they should If It's necesary or required but If not, then they should not log anything or they should at least inform you about stuff like they sell your data to third parties.
 + Share things that should be shared to others. Sharing is caring.
 + Join communities that enhance & protect users privacy.
 + Before using or doing something, be sure to know the consequences first.
++ Open Source is one of the key to privacy.
 + Contributing to this project will be a really big help!
 
 ### References
