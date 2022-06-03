@@ -30,9 +30,9 @@
   - [Teamworking Tools](#teamworking-tools)
   - [Databases](#databases)
   - [Download Manager](#download-manager)
-  - [File Management & Sharing](#file-management--sharing)
+  - [File Management \& Sharing](#file-management--sharing)
   - [Fonts](#fonts)
-  - [Maps & Navigation](#maps--navigation)
+  - [Maps \& Navigation](#maps--navigation)
   - [Media Streaming Platforms](#media-streaming-platforms)
   - [Office](#office)
   - [Translation](#translation)
@@ -44,6 +44,9 @@
   - [Domain Registrar](#domain-registrar)
   - [Android Dialer](#android-dialer)
   - [Browser Leaks Test](#browser-leaks-test)
+  - [Network](#network)
+  - [Github](#github)
+  - [Others](#others)
   - [Mass Surveillance Projects](#mass-surveillance-projects)
       - [NSA](#nsa)
   - [Platforms Users Reviews](#platforms-users-reviews)
@@ -92,6 +95,7 @@
 ### Messaging
 + [Signal](https://signal.org/) - End-to-end encryption keeps your conversations secure.
 + [Keybase](https://keybase.io/) - End-to-end encryption for messaging and file-sharing.
++ [Dust](https://usedust.com/) - Blockchain based messaging app.
 + [Jami](https://jami.net/) - An peer to peer and end to end encrypted messager that utlizes a distributed hash table for sending messages.
 + [Element](https://element.io/) - Secure and independent communication, connected via Matrix.
 + [Wickr](https://wickr.com/) - A anonymous, end-to-end encrypted & ephemeral messaging app(Owned by Amazon).
@@ -127,6 +131,7 @@
 + [Brave](https://brave.com/) - Is fast, secure, and privacy-focused by default with a built-in ad blocker.
 + [Librewolf](https://librewolf-community.gitlab.io/) - A fork of firefox, focused on privacy, security, and freedom. 
 + [Tor](https://www.torproject.org/) - Defend yourself against tracking and surveillance. Circumvent censorship.
++ [Speek](https://speek.network/) - An open source chat app that uses TOR.
 + [Epic](https://www.epicbrowser.com/) - Privacy focused web browser.
 + [Bromite](https://www.bromite.org/) - Bromite is a Chromium fork with ad blocking and enhanced privacy; take back your browser.
 + [Firefox](https://www.mozilla.org/en-US/firefox/new/) - Privacy-first web browser with lots of addons to further increase privacy.
@@ -240,8 +245,7 @@ All of them has been proven that they do not log, but still use them at your own
 + [NordVPN](https://nordvpn.com/) - NordVPN is a another top leading VPN that supports over 5k+ servers in 59 countries and works in any streaming platforms.
 + [Mullvad](https://mullvad.net/) - An open source and recommended VPN in Reddit.
 + [ExpressVPN](https://www.expressvpn.com/) - A top leading fast & no logging VPN(Owned by Kape Technology).
-+ [Windscribe](https://windscribe.com/) - Your online privacy is under attack.  
-Windscribe sets you free.
++ [Windscribe](https://windscribe.com/) - Your online privacy is under attack. Windscribe sets you free.
 + [CyberGhost VPN](https://www.cyberghostvpn.com/) - Fast, secure & anonymous VPN service(Owned by Kape Technology).
 + [VeePN](https://veepn.com/) - Fast, ultra secure, and easy to use VPN service to protect your privacy online based in Panama.
 + [SurfShark](https://surfshark.com/) - Surfshark is an award-winning, secure VPN that encrypts your online data to help you stay private & protected every day, hassle-free.
@@ -256,6 +260,7 @@ Windscribe sets you free.
 + [Privacy Badger](https://chrome.google.com/webstore/detail/privacy-badger/pkehgijcmpdhfbdbbnkijodmdjhbjlgp) - Privacy Badger automatically discovers trackers based on their behavior. Privacy Badger sends the Global Privacy Control signal to opt you out of data sharing and selling, and the Do Not Track signal to tell companies not to track you. If trackers ignore your wishes, Privacy Badger will learn to block them.
 + [Startpage](https://chrome.google.com/webstore/detail/startpage-%E2%80%94-private-searc/fgmjlmbojbkmdpofahffgcpkhkngfpef?hl=en) - Take back your online privacy by using Startpage as your default search engine. This search engine extension protects users from being tracked while allowing them to search the web in complete privacy.
 + [WebRTC Leak Prevent](https://chrome.google.com/webstore/detail/webrtc-leak-prevent/eiadekoaikejlgdbkbdfeijglgfdalml) - Prevent WebRTC leaks in Chrome by controlling hidden WebRTC privacy settings.
++ [Unshorten.link](https://chrome.google.com/webstore/detail/unshortenlink/gbobdaaeaihkghbokihkofcbndhmbdpd) - With the Unshorten.link extension, any shortened link (such as bit.ly or t.co) you click on will be automatically expanded and analyzed for malware giving you a clear view of where the link is taking you.
 + [Onion Search Engine](https://addons.mozilla.org/en-US/firefox/addon/onion-search-engine/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) - Onion Search Engine protects your privacy and does not spy on you. Search the normal network and the onion network.
 + [Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij) - Ghostery is a powerful privacy extension. Block ads, stop trackers and speed up websites.
 + [User-Agent Switcher & Manager](https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg) - Spoof websites trying to gather information about your web navigation to deliver distinct content you may not want.
@@ -399,6 +404,10 @@ Windscribe sets you free.
 + [Spot](https://github.com/xou816/spot) - Native Spotify client built in GTK and Rust.
 + [psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI.
 + [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
++ [saikou](https://github.com/saikou-app/saikou) - An Android Anilist only client, which lets you stream & download Anime & Manga.
++ [hakuneko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & MacOS.
++ [AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
++ [animity](https://github.com/kl3jvi/animity) - Android app to watch anime on your phone without ads and best streaming quality available.
 + [Beatbump](https://github.com/snuffyDev/Beatbump) - Alternative frontend for YouTube Music; no ads and custom API wrapper.
 + [dzr](https://github.com/yne/dzr) - Command line Deezer player for Linux, BSD, Android+Termux
 
@@ -472,6 +481,20 @@ Windscribe sets you free.
 +  [IPLeak](https://ipleak.net/)
 + [DNSLeakTest](http://www.dnsleaktest.com/)
 + [GRC](https://www.grc.com/dns/dns.htm)
+
+### Network
++ [paping](https://github.com/koolhazz/paping) - Cross-platform TCP port testing, emulating the functionality of ping (port ping).
++ [chping](https://github.com/OTAKKATO/chping) - A powerful Paping alternative made using NodeJS.
+
+### Github
+- https://github.com/Igglybuff/awesome-piracy
+- https://github.com/awesome-selfhosted/awesome-selfhosted
+
+### Others
++ https://github.com/
++ https://gitlab.com/
++ https://gitee.com/
++ https://bitbucket.org/
 
 ### Mass Surveillance Projects
 They are summarized here because the information of these projects are big, for more information please click their name.
@@ -783,12 +806,15 @@ All of these are optional but some of them should be used in daily basis or admi
 + Use privacy enhancing applications.
 
 ### Addition
++ Always use your "Be careful" instinct.
++ Do not trust anything in the internet.
 + Can't find something that you needed to protect your privacy? Why not make it, find a developer to make it for you or let us know by making an Issue in this repository.
 + Some of these mass surveillance projects are used to catch terrorist and bad guys. What is wrong with that? Yes but the thing is innocent people are getting Included as well, lying, being dishonest & secretly gathers peoples data without their concern or at least informing them might be more than just targetting bad guys.
 + So companies should not gather data? No they should If It's necesary or required but If not, then they should not log anything or they should at least inform you about stuff like they sell your data to third parties.
 + Share things that should be shared to others. Sharing is caring.
 + Join communities that enhance & protect users privacy.
 + Before using or doing something, be sure to know the consequences first.
++ Open Source is one of the key to privacy.
 + Contributing to this project will be a really big help!
 
 ### References
