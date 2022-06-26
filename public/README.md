@@ -30,15 +30,16 @@
   - [Teamworking Tools](#teamworking-tools)
   - [Databases](#databases)
   - [Download Manager](#download-manager)
-  - [File Management \& Sharing](#file-management--sharing)
+  - [File Management & Sharing](#file-management--sharing)
   - [Fonts](#fonts)
-  - [Maps \& Navigation](#maps--navigation)
+  - [Maps & Navigation](#maps--navigation)
   - [Media Streaming Platforms](#media-streaming-platforms)
   - [Office](#office)
   - [Translation](#translation)
   - [Video and Audio Conferencing](#video-and-audio-conferencing)
   - [Video Editing](#video-editing)
   - [Location Tracking](#location-tracking)
+  - [Blogs](#blogs)
   - [Photo Storage](#photo-storage)
   - [Encryption](#encryption)
   - [Domain Registrar](#domain-registrar)
@@ -224,6 +225,7 @@
 + [mgin](https://git.voidnet.tech/kev/imgin) - A minimalist, tor-friendly, read-only Imgur proxy insipired by software like Invidious, Nitter, and Bibliogram.
 + [rimgo](https://codeberg.org/video-prize-ranch/rimgo#instances) - An alternative frontend for Imgur. Read-only, no-js, Based on rimgu and rewritten in Go.
 + [Minds](https://www.minds.com/) - An open-source social media platform with a focus on providing a safe place for digital brands, companies, or people who are looking to network.
++ [Gab](https://gab.com/)
 
 ### Password Manager
 + [Dashlane](https://dashlane.com/) - A highly secure, very easy to use, and includes a wide range of additional features.
@@ -443,6 +445,16 @@ All of them has been proven that they do not log, but still use them at your own
 + [OwnTracks](https://owntracks.org/) - Location tracking for displaying the current location only (limited location history functionality).
 + [Traccar](https://www.traccar.org/) - Location tracking software made for dedicated GPS logging devices.
 + [Find My Device](https://gitlab.com/Nulide/findmydevice) - Find your Android Device via SMS.
+
+### Blogs
+- https://theprivacyblog.com/
+- https://choosetoencrypt.com/
+- https://privacydesk.in/
+- https://www.huntonprivacyblog.com/
+- https://dataprivacyblog.com/
+- https://www.insideprivacy.com/
+- https://teachprivacy.com/
+- https://spreadprivacy.com/
 
 ### Photo Storage
 + [Photoprism](https://photoprism.app/) - Feature rich server-based application for browsing, organizing and sharing your personal photo collection. The most similar to Google Photos.
