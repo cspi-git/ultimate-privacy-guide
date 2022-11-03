@@ -496,7 +496,7 @@ All of them has been proven that they do not log, but still use them at your own
 
 ### Network
 + [paping](https://github.com/koolhazz/paping) - Cross-platform TCP port testing, emulating the functionality of ping (port ping).
-+ [chping](https://github.com/OTAKKATO/chping) - A powerful Paping alternative made using NodeJS.
++ [chping](https://github.com/hanaui-git/chping) - A powerful Paping alternative made using NodeJS.
 
 ### Github
 - https://github.com/Igglybuff/awesome-piracy
