@@ -13,7 +13,7 @@ node index.js
 ```
 
 ## License
-MIT © Hanaui
+MIT © CSPI
 
 <hr>
 
@@ -34,6 +34,7 @@ MIT © Hanaui
     - [Browsers](#browsers)
     - [Cloud Storage](#cloud-storage)
     - [Search Engines](#search-engines)
+    - [Anonymous Mail Forwarding](#anonymous-mail-forwarding)
     - [Email Providers](#email-providers)
     - [Operating Systems](#operating-systems)
     - [Social Networks and Platforms](#social-networks-and-platforms)
@@ -53,9 +54,10 @@ MIT © Hanaui
     - [Teamworking Tools](#teamworking-tools)
     - [Databases](#databases)
     - [Download Manager](#download-manager)
-    - [File Management & Sharing](#file-management--sharing)
+    - [File Management \& Sharing](#file-management--sharing)
     - [Fonts](#fonts)
-    - [Maps & Navigation](#maps--navigation)
+    - [Maps \& Navigation](#maps--navigation)
+    - [DNS](#dns)
     - [Media Streaming Platforms](#media-streaming-platforms)
     - [Office](#office)
     - [Translation](#translation)
@@ -171,6 +173,9 @@ MIT © Hanaui
 + [Mega](https://mega.nz/) - End-to-end encrypted cloud storage and cloud collaboration platform.
 + [Tresorit](https://tresorit.com/) - End-to-end encrypted cloud storage service.
 + [Nextcloud](https://nextcloud.com/) - A self hosted cloud collaboration platform that supports file syncing, team chat, and Voice over IP.
++ [Icedrive](https://icedrive.net/) - End-to-end encrypted & zero-knowledge cloud storage.
++ [Storj](https://www.storj.io/) - Client side encrypted also supports S3.
++ [Tebi](https://tebi.io/) - Server encrypted only also supports S3.
 + [Sia](https://sia.tech/) - An encrypted and decentralized storage platform and marketplace, where files are stored as redundant segments spread out across multiple provider nodes.
 + [Zpan](https://github.com/saltbo/zpan) - Self hosted cloud disk base.
 + [Seafile](https://www.seafile.com/en/home/) - High performance file syncing and sharing. It includes a Wiki, WYSIWYG editing and other knowledge management features.
@@ -184,8 +189,14 @@ MIT © Hanaui
 + [Whoogle Search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting Google metasearch engine.
 + [SearX](https://searx.me/) - Privacy-respecting metasearch engine.
 
+### Anonymous Mail Forwarding
++ [Anonaddy](https://anonaddy.com/)
++ [SimpleLogin](https://simplelogin.io/?slref=bridsqrgvrnavso)
++ [33Mail](http://33mail.com/Dg0gkEA)
+
 ### Email Providers
 + [ProtonMail](https://protonmail.com/) - End-to-end encryption and zero access encryption to secure emails.
++ [OnionMail](https://onionmail.org/) - Best email provider using Tor.
 + [Tutanota](https://tutanota.com/) - Encrypted, open-source & multi platform.
 + [Preveil](https://www.preveil.com/) -  End-to-end encrypted cloud email and file sharing service.
 + [Soverin](https://soverin.net/) - A private mailbox that’s truly yours.
@@ -210,6 +221,7 @@ MIT © Hanaui
 +  [postmarketOS](https://postmarketos.org/) - Touch optimised and pre-configured version of Alpine Linux.
 + [PureOS](https://www.pureos.net/) - Operating system developed by purism for the Librem 5.
 + [Plasma Mobile](https://www.plasma-mobile.org/) - Plasma, in your pocket. Privacy-respecting, open source and secure phone ecosystem.
++ [Trisquel](https://trisquel.info/) - If you want a really lightweight and privacy-focus OS. Trisquel is for you.
 + [mobian](https://mobian-project.org/) - Debian for mobile.
 
 ### Social Networks and Platforms
@@ -416,6 +428,15 @@ All of them has been proven that they do not log, but still use them at your own
 + [Qwant Maps](https://www.qwant.com/maps/) - An OpenStreetMap-based private Google Maps alternative.
 + [Organic Maps](https://organicmaps.app/) - Great offline maps for hikers and cyclists.
 
+### DNS
++ [Quad9](https://quad9.net/)
++ [CleanBrowsing](https://cleanbrowsing.org/)
++ [DNS Watch](https://dns.watch/)
++ [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls/)
++ [UncensoredDNS](https://blog.uncensoreddns.org/)
++ [OpenNIC](https://www.opennic.org/)
++ [Blah DNS](https://blahdns.com/)
+
 ### Media Streaming Platforms
 + [Jellyfin](https://jellyfin.org/) - Jellyfin is the volunteer-built media solution that puts you in control of your media. Stream to any device from your own server, with no strings attached.
 + [Dim](https://github.com/Dusk-Labs/dim) - Dim is a self-hosted media manager. With minimal setup, Dim will organize and beautify your media collections, letting you access and play them anytime from anywhere.
@@ -519,7 +540,7 @@ All of them has been proven that they do not log, but still use them at your own
 
 ### Network
 + [paping](https://github.com/koolhazz/paping) - Cross-platform TCP port testing, emulating the functionality of ping (port ping).
-+ [chping](https://github.com/hanaui-git/chping) - A powerful Paping alternative made using NodeJS.
++ [chping](https://github.com/cspi-git/chping) - A powerful Paping alternative made using NodeJS.
 
 ### Github
 - https://github.com/Igglybuff/awesome-piracy
@@ -857,5 +878,6 @@ Some of the things here are from this sources and some are from my research.
 + [awesome-privacy - Josehbez](https://github.com/josehbez/awesome-privacy)
 + [awesome-privacy - Pluja](https://github.com/pluja/awesome-privacy)
 + [personal-security-checklist](https://github.com/Lissy93/personal-security-checklist)
++ [awesome-privacy - Lissy93](https://github.com/Lissy93/awesome-privacy)
 + [RadioOpenSource](https://radioopensource.org/the-five-nsa-programs-you-should-know-about/)
 + [Wikipedia](https://en.wikipedia.org/wiki/List_of_government_mass_surveillance_projects)
