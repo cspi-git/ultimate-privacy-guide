@@ -1,3 +1,4 @@
+# Archived (Organized and better version is https://resources.cspi.network/)
 # Ultimate Privacy Guide
 The ultimate & full guide on how to protect your privacy online & physical.
 
